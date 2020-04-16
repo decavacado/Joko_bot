@@ -1,0 +1,24 @@
+{
+  "name": "discord_js",
+  "version": "12.14.1",
+  "description": "Instagram js bot",
+  "main": "inst.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon inst.js"
+  },
+  "author": "me",
+  "license": "ISC",
+  "keywords": [
+    "Bot"
+  ],
+  "dependencies": {
+    "discord.js": "^12.0.2",
+    "dotenv": "^8.2.0",
+    "inst": "^1.1.0",
+    "knock-knock-jokes": "^1.7.0",
+    "mongoose": "^5.9.7",
+    "node-fetch": "^2.6.0",
+    "unirest": "^0.6.0"
+  }
+}
