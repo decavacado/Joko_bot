@@ -1,7 +1,7 @@
 {
   "name": "discord_js",
   "version": "12.14.1",
-  "description": "Instagram js bot",
+  "description": "Discord js bot",
   "main": "inst.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
