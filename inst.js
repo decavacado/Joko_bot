@@ -271,7 +271,7 @@ client.on("message", function(msg){
 			})
 			req.headers({
 				"x-rapidapi-host": "mashape-community-urban-dictionary.p.rapidapi.com",
-				"x-rapidapi-key": "afdf5c7eafmsh7a93c917b881af1p1f23d5jsn5e7d2ffc59a9"
+				"x-rapidapi-key": "KEY_HERE"
 			});		
 			req.end(function(res){
 				if(res.error){
